@@ -1,0 +1,4 @@
+C:\Users\Guilherme\source\repos\Ftec.ProjetosWeb.ProdutoAvaliacao\Ftec.ProjetosWeb.ProdutoAvaliacao.Dominio\obj\Debug\net10.0\Ftec.ProjetosWeb.ProdutoAvaliacao.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme\source\repos\Ftec.ProjetosWeb.ProdutoAvaliacao\Ftec.ProjetosWeb.ProdutoAvaliacao.Dominio\obj\Debug\net10.0\Ftec.ProjetosWeb.ProdutoAvaliacao.Dominio.AssemblyInfoInputs.cache
+C:\Users\Guilherme\source\repos\Ftec.ProjetosWeb.ProdutoAvaliacao\Ftec.ProjetosWeb.ProdutoAvaliacao.Dominio\obj\Debug\net10.0\Ftec.ProjetosWeb.ProdutoAvaliacao.Dominio.AssemblyInfo.cs
+C:\Users\Guilherme\source\repos\Ftec.ProjetosWeb.ProdutoAvaliacao\Ftec.ProjetosWeb.ProdutoAvaliacao.Dominio\obj\Debug\net10.0\Ftec.ProjetosWeb.ProdutoAvaliacao.Dominio.csproj.CoreCompileInputs.cache

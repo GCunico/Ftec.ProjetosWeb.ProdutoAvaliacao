@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Ftec.ProjetosWeb.ProdutoAvaliacao\Ftec.ProjetosWeb.ProdutoAvaliacao.Persistencia\bin\Release\net10.0\Ftec.ProjetosWeb.ProdutosAvaliacoes.Persistencia.deps.json
+C:\Users\User\Desktop\Ftec.ProjetosWeb.ProdutoAvaliacao\Ftec.ProjetosWeb.ProdutoAvaliacao.Persistencia\bin\Release\net10.0\Ftec.ProjetosWeb.ProdutosAvaliacoes.Persistencia.dll
+C:\Users\User\Desktop\Ftec.ProjetosWeb.ProdutoAvaliacao\Ftec.ProjetosWeb.ProdutoAvaliacao.Persistencia\bin\Release\net10.0\Ftec.ProjetosWeb.ProdutosAvaliacoes.Persistencia.pdb
+C:\Users\User\Desktop\Ftec.ProjetosWeb.ProdutoAvaliacao\Ftec.ProjetosWeb.ProdutoAvaliacao.Persistencia\bin\Release\net10.0\Ftec.ProjetosWeb.ProdutosAvaliacoes.Dominio.dll
+C:\Users\User\Desktop\Ftec.ProjetosWeb.ProdutoAvaliacao\Ftec.ProjetosWeb.ProdutoAvaliacao.Persistencia\bin\Release\net10.0\Ftec.ProjetosWeb.ProdutosAvaliacoes.Dominio.pdb
+C:\Users\User\Desktop\Ftec.ProjetosWeb.ProdutoAvaliacao\Ftec.ProjetosWeb.ProdutoAvaliacao.Persistencia\obj\Release\net10.0\Ftec.ProjetosWeb.ProdutosAvaliacoes.Persistencia.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Ftec.ProjetosWeb.ProdutoAvaliacao\Ftec.ProjetosWeb.ProdutoAvaliacao.Persistencia\obj\Release\net10.0\Ftec.ProjetosWeb.ProdutosAvaliacoes.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Ftec.ProjetosWeb.ProdutoAvaliacao\Ftec.ProjetosWeb.ProdutoAvaliacao.Persistencia\obj\Release\net10.0\Ftec.ProjetosWeb.ProdutosAvaliacoes.Persistencia.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Ftec.ProjetosWeb.ProdutoAvaliacao\Ftec.ProjetosWeb.ProdutoAvaliacao.Persistencia\obj\Release\net10.0\Ftec.ProjetosWeb.ProdutosAvaliacoes.Persistencia.AssemblyInfo.cs
+C:\Users\User\Desktop\Ftec.ProjetosWeb.ProdutoAvaliacao\Ftec.ProjetosWeb.ProdutoAvaliacao.Persistencia\obj\Release\net10.0\Ftec.ProjetosWeb.ProdutosAvaliacoes.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Ftec.ProjetosWeb.ProdutoAvaliacao\Ftec.ProjetosWeb.ProdutoAvaliacao.Persistencia\obj\Release\net10.0\Ftec.Pro.7CA4833B.Up2Date
+C:\Users\User\Desktop\Ftec.ProjetosWeb.ProdutoAvaliacao\Ftec.ProjetosWeb.ProdutoAvaliacao.Persistencia\obj\Release\net10.0\Ftec.ProjetosWeb.ProdutosAvaliacoes.Persistencia.dll
+C:\Users\User\Desktop\Ftec.ProjetosWeb.ProdutoAvaliacao\Ftec.ProjetosWeb.ProdutoAvaliacao.Persistencia\obj\Release\net10.0\refint\Ftec.ProjetosWeb.ProdutosAvaliacoes.Persistencia.dll
+C:\Users\User\Desktop\Ftec.ProjetosWeb.ProdutoAvaliacao\Ftec.ProjetosWeb.ProdutoAvaliacao.Persistencia\obj\Release\net10.0\Ftec.ProjetosWeb.ProdutosAvaliacoes.Persistencia.pdb
+C:\Users\User\Desktop\Ftec.ProjetosWeb.ProdutoAvaliacao\Ftec.ProjetosWeb.ProdutoAvaliacao.Persistencia\obj\Release\net10.0\ref\Ftec.ProjetosWeb.ProdutosAvaliacoes.Persistencia.dll

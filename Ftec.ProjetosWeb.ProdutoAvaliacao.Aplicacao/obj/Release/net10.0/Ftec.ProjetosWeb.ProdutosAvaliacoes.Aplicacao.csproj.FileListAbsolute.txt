@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\Ftec.ProjetosWeb.ProdutoAvaliacao\Ftec.ProjetosWeb.ProdutoAvaliacao.Aplicacao\bin\Release\net10.0\Ftec.ProjetosWeb.ProdutosAvaliacoes.Aplicacao.deps.json
+C:\Users\User\Desktop\Ftec.ProjetosWeb.ProdutoAvaliacao\Ftec.ProjetosWeb.ProdutoAvaliacao.Aplicacao\bin\Release\net10.0\Ftec.ProjetosWeb.ProdutosAvaliacoes.Aplicacao.dll
+C:\Users\User\Desktop\Ftec.ProjetosWeb.ProdutoAvaliacao\Ftec.ProjetosWeb.ProdutoAvaliacao.Aplicacao\bin\Release\net10.0\Ftec.ProjetosWeb.ProdutosAvaliacoes.Aplicacao.pdb
+C:\Users\User\Desktop\Ftec.ProjetosWeb.ProdutoAvaliacao\Ftec.ProjetosWeb.ProdutoAvaliacao.Aplicacao\bin\Release\net10.0\Ftec.ProjetosWeb.ProdutosAvaliacoes.Dominio.dll
+C:\Users\User\Desktop\Ftec.ProjetosWeb.ProdutoAvaliacao\Ftec.ProjetosWeb.ProdutoAvaliacao.Aplicacao\bin\Release\net10.0\Ftec.ProjetosWeb.ProdutosAvaliacoes.Persistencia.dll
+C:\Users\User\Desktop\Ftec.ProjetosWeb.ProdutoAvaliacao\Ftec.ProjetosWeb.ProdutoAvaliacao.Aplicacao\bin\Release\net10.0\Ftec.ProjetosWeb.ProdutosAvaliacoes.Dominio.pdb
+C:\Users\User\Desktop\Ftec.ProjetosWeb.ProdutoAvaliacao\Ftec.ProjetosWeb.ProdutoAvaliacao.Aplicacao\bin\Release\net10.0\Ftec.ProjetosWeb.ProdutosAvaliacoes.Persistencia.pdb
+C:\Users\User\Desktop\Ftec.ProjetosWeb.ProdutoAvaliacao\Ftec.ProjetosWeb.ProdutoAvaliacao.Aplicacao\obj\Release\net10.0\Ftec.ProjetosWeb.ProdutosAvaliacoes.Aplicacao.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Ftec.ProjetosWeb.ProdutoAvaliacao\Ftec.ProjetosWeb.ProdutoAvaliacao.Aplicacao\obj\Release\net10.0\Ftec.ProjetosWeb.ProdutosAvaliacoes.Aplicacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Ftec.ProjetosWeb.ProdutoAvaliacao\Ftec.ProjetosWeb.ProdutoAvaliacao.Aplicacao\obj\Release\net10.0\Ftec.ProjetosWeb.ProdutosAvaliacoes.Aplicacao.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Ftec.ProjetosWeb.ProdutoAvaliacao\Ftec.ProjetosWeb.ProdutoAvaliacao.Aplicacao\obj\Release\net10.0\Ftec.ProjetosWeb.ProdutosAvaliacoes.Aplicacao.AssemblyInfo.cs
+C:\Users\User\Desktop\Ftec.ProjetosWeb.ProdutoAvaliacao\Ftec.ProjetosWeb.ProdutoAvaliacao.Aplicacao\obj\Release\net10.0\Ftec.ProjetosWeb.ProdutosAvaliacoes.Aplicacao.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Ftec.ProjetosWeb.ProdutoAvaliacao\Ftec.ProjetosWeb.ProdutoAvaliacao.Aplicacao\obj\Release\net10.0\Ftec.Pro.66E6050C.Up2Date
+C:\Users\User\Desktop\Ftec.ProjetosWeb.ProdutoAvaliacao\Ftec.ProjetosWeb.ProdutoAvaliacao.Aplicacao\obj\Release\net10.0\Ftec.ProjetosWeb.ProdutosAvaliacoes.Aplicacao.dll
+C:\Users\User\Desktop\Ftec.ProjetosWeb.ProdutoAvaliacao\Ftec.ProjetosWeb.ProdutoAvaliacao.Aplicacao\obj\Release\net10.0\refint\Ftec.ProjetosWeb.ProdutosAvaliacoes.Aplicacao.dll
+C:\Users\User\Desktop\Ftec.ProjetosWeb.ProdutoAvaliacao\Ftec.ProjetosWeb.ProdutoAvaliacao.Aplicacao\obj\Release\net10.0\Ftec.ProjetosWeb.ProdutosAvaliacoes.Aplicacao.pdb
+C:\Users\User\Desktop\Ftec.ProjetosWeb.ProdutoAvaliacao\Ftec.ProjetosWeb.ProdutoAvaliacao.Aplicacao\obj\Release\net10.0\ref\Ftec.ProjetosWeb.ProdutosAvaliacoes.Aplicacao.dll

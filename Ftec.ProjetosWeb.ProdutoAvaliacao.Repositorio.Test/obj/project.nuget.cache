@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "3deT4u9MwJY=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Guilherme\\source\\repos\\Ftec.ProjetosWeb.ProdutoAvaliacao\\Ftec.ProjetosWeb.ProdutoAvaliacao.Repositorio.Test\\Ftec.ProjetosWeb.ProdutoAvaliacao.Repositorio.Test.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Não é possível obter informações de assinatura do repositório para a origem https://api.nuget.org/v3-index/repository-signatures/5.0.0/index.json.\r\n  Ocorreu um erro ao enviar a solicitação.\r\n  O nome remoto não pôde ser resolvido: 'api.nuget.org'",
+      "projectPath": "C:\\Users\\Guilherme\\source\\repos\\Ftec.ProjetosWeb.ProdutoAvaliacao\\Ftec.ProjetosWeb.ProdutoAvaliacao.Repositorio.Test\\Ftec.ProjetosWeb.ProdutoAvaliacao.Repositorio.Test.csproj",
+      "filePath": "C:\\Users\\Guilherme\\source\\repos\\Ftec.ProjetosWeb.ProdutoAvaliacao\\Ftec.ProjetosWeb.ProdutoAvaliacao.Repositorio.Test\\Ftec.ProjetosWeb.ProdutoAvaliacao.Repositorio.Test.csproj",
+      "targetGraphs": []
+    }
+  ]
+}

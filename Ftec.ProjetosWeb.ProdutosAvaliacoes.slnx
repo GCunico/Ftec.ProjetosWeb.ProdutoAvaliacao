@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/Aplicacao/">
+    <Project Path="Ftec.ProjetosWeb.ProdutoAvaliacao.Aplicacao/Ftec.ProjetosWeb.ProdutosAvaliacoes.Aplicacao.csproj" Id="34987036-20f4-4257-af23-6915a9f829e8" />
+  </Folder>
+  <Folder Name="/Dominio/">
+    <Project Path="Ftec.ProjetosWeb.ProdutoAvaliacao.Dominio/Ftec.ProjetosWeb.ProdutosAvaliacoes.Dominio.csproj" Id="3765aee4-bf2d-431a-8845-793fbd7d99d7" />
+  </Folder>
+  <Folder Name="/Persistencia/">
+    <Project Path="Ftec.ProjetosWeb.ProdutoAvaliacao.Persistencia/Ftec.ProjetosWeb.ProdutosAvaliacoes.Persistencia.csproj" Id="54440453-52a2-4a70-b045-8ccdaf49ac89" />
+  </Folder>
+  <Folder Name="/Servico/">
+    <Project Path="Ftec.ProjetosWeb.ProdutoAvaliacao/Ftec.ProjetosWeb.ProdutosAvaliacoes.Api.csproj" />
+  </Folder>
+</Solution>

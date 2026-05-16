@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Ftec.ProjetosWeb.ProdutoAvaliacao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83060C13-C4DF-D95B-663D-94E92ADFE373}|Ftec.ProjetosWeb.ProdutoAvaliacao\\Ftec.ProjetosWeb.ProdutosAvaliacoes.Api.csproj|c:\\users\\user\\desktop\\ftec.projetosweb.produtoavaliacao\\ftec.projetosweb.produtoavaliacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83060C13-C4DF-D95B-663D-94E92ADFE373}|Ftec.ProjetosWeb.ProdutoAvaliacao\\Ftec.ProjetosWeb.ProdutosAvaliacoes.Api.csproj|solutionrelative:ftec.projetosweb.produtoavaliacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83060C13-C4DF-D95B-663D-94E92ADFE373}|Ftec.ProjetosWeb.ProdutoAvaliacao\\Ftec.ProjetosWeb.ProdutosAvaliacoes.Api.csproj|c:\\users\\user\\desktop\\ftec.projetosweb.produtoavaliacao\\ftec.projetosweb.produtoavaliacao\\controllers\\produtoavaliacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83060C13-C4DF-D95B-663D-94E92ADFE373}|Ftec.ProjetosWeb.ProdutoAvaliacao\\Ftec.ProjetosWeb.ProdutosAvaliacoes.Api.csproj|solutionrelative:ftec.projetosweb.produtoavaliacao\\controllers\\produtoavaliacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34987036-20F4-4257-AF23-6915A9F829E8}|Ftec.ProjetosWeb.ProdutoAvaliacao.Aplicacao\\Ftec.ProjetosWeb.ProdutosAvaliacoes.Aplicacao.csproj|c:\\users\\user\\desktop\\ftec.projetosweb.produtoavaliacao\\ftec.projetosweb.produtoavaliacao.aplicacao\\produtoavaliacaoaplicacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34987036-20F4-4257-AF23-6915A9F829E8}|Ftec.ProjetosWeb.ProdutoAvaliacao.Aplicacao\\Ftec.ProjetosWeb.ProdutosAvaliacoes.Aplicacao.csproj|solutionrelative:ftec.projetosweb.produtoavaliacao.aplicacao\\produtoavaliacaoaplicacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3765AEE4-BF2D-431A-8845-793FBD7D99D7}|Ftec.ProjetosWeb.ProdutoAvaliacao.Dominio\\Ftec.ProjetosWeb.ProdutosAvaliacoes.Dominio.csproj|c:\\users\\user\\desktop\\ftec.projetosweb.produtoavaliacao\\ftec.projetosweb.produtoavaliacao.dominio\\entidades\\produtoavaliacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3765AEE4-BF2D-431A-8845-793FBD7D99D7}|Ftec.ProjetosWeb.ProdutoAvaliacao.Dominio\\Ftec.ProjetosWeb.ProdutosAvaliacoes.Dominio.csproj|solutionrelative:ftec.projetosweb.produtoavaliacao.dominio\\entidades\\produtoavaliacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34987036-20F4-4257-AF23-6915A9F829E8}|Ftec.ProjetosWeb.ProdutoAvaliacao.Aplicacao\\Ftec.ProjetosWeb.ProdutosAvaliacoes.Aplicacao.csproj|c:\\users\\user\\desktop\\ftec.projetosweb.produtoavaliacao\\ftec.projetosweb.produtoavaliacao.aplicacao\\dto\\produtoavaliacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34987036-20F4-4257-AF23-6915A9F829E8}|Ftec.ProjetosWeb.ProdutoAvaliacao.Aplicacao\\Ftec.ProjetosWeb.ProdutosAvaliacoes.Aplicacao.csproj|solutionrelative:ftec.projetosweb.produtoavaliacao.aplicacao\\dto\\produtoavaliacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54440453-52A2-4A70-B045-8CCDAF49AC89}|Ftec.ProjetosWeb.ProdutoAvaliacao.Persistencia\\Ftec.ProjetosWeb.ProdutosAvaliacoes.Persistencia.csproj|c:\\users\\user\\desktop\\ftec.projetosweb.produtoavaliacao\\ftec.projetosweb.produtoavaliacao.persistencia\\produtoavaliacaorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54440453-52A2-4A70-B045-8CCDAF49AC89}|Ftec.ProjetosWeb.ProdutoAvaliacao.Persistencia\\Ftec.ProjetosWeb.ProdutosAvaliacoes.Persistencia.csproj|solutionrelative:ftec.projetosweb.produtoavaliacao.persistencia\\produtoavaliacaorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83060C13-C4DF-D95B-663D-94E92ADFE373}|Ftec.ProjetosWeb.ProdutoAvaliacao\\Ftec.ProjetosWeb.ProdutosAvaliacoes.Api.csproj|c:\\users\\user\\desktop\\ftec.projetosweb.produtoavaliacao\\ftec.projetosweb.produtoavaliacao\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{83060C13-C4DF-D95B-663D-94E92ADFE373}|Ftec.ProjetosWeb.ProdutoAvaliacao\\Ftec.ProjetosWeb.ProdutosAvaliacoes.Api.csproj|solutionrelative:ftec.projetosweb.produtoavaliacao\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3765AEE4-BF2D-431A-8845-793FBD7D99D7}|Ftec.ProjetosWeb.ProdutoAvaliacao.Dominio\\Ftec.ProjetosWeb.ProdutosAvaliacoes.Dominio.csproj|c:\\users\\user\\desktop\\ftec.projetosweb.produtoavaliacao\\ftec.projetosweb.produtoavaliacao.dominio\\interfaces\\iprodutoavaliacaorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3765AEE4-BF2D-431A-8845-793FBD7D99D7}|Ftec.ProjetosWeb.ProdutoAvaliacao.Dominio\\Ftec.ProjetosWeb.ProdutosAvaliacoes.Dominio.csproj|solutionrelative:ftec.projetosweb.produtoavaliacao.dominio\\interfaces\\iprodutoavaliacaorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3765AEE4-BF2D-431A-8845-793FBD7D99D7}|Ftec.ProjetosWeb.ProdutoAvaliacao.Dominio\\Ftec.ProjetosWeb.ProdutosAvaliacoes.Dominio.csproj|c:\\users\\user\\desktop\\ftec.projetosweb.produtoavaliacao\\ftec.projetosweb.produtoavaliacao.dominio\\entidades\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3765AEE4-BF2D-431A-8845-793FBD7D99D7}|Ftec.ProjetosWeb.ProdutoAvaliacao.Dominio\\Ftec.ProjetosWeb.ProdutosAvaliacoes.Dominio.csproj|solutionrelative:ftec.projetosweb.produtoavaliacao.dominio\\entidades\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34987036-20F4-4257-AF23-6915A9F829E8}|Ftec.ProjetosWeb.ProdutoAvaliacao.Aplicacao\\Ftec.ProjetosWeb.ProdutosAvaliacoes.Aplicacao.csproj|c:\\users\\user\\desktop\\ftec.projetosweb.produtoavaliacao\\ftec.projetosweb.produtoavaliacao.aplicacao\\adapter\\produtoavaliacaoadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34987036-20F4-4257-AF23-6915A9F829E8}|Ftec.ProjetosWeb.ProdutoAvaliacao.Aplicacao\\Ftec.ProjetosWeb.ProdutosAvaliacoes.Aplicacao.csproj|solutionrelative:ftec.projetosweb.produtoavaliacao.aplicacao\\adapter\\produtoavaliacaoadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ftec.ProjetosWeb.ProdutoAvaliacao\\Ftec.ProjetosWeb.ProdutoAvaliacao\\Program.cs",
+              "RelativeDocumentMoniker": "Ftec.ProjetosWeb.ProdutoAvaliacao\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Ftec.ProjetosWeb.ProdutoAvaliacao\\Ftec.ProjetosWeb.ProdutoAvaliacao\\Program.cs",
+              "RelativeToolTip": "Ftec.ProjetosWeb.ProdutoAvaliacao\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T02:39:46.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ftec.ProjetosWeb.ProdutoAvaliacao\\Ftec.ProjetosWeb.ProdutoAvaliacao\\appsettings.json",
+              "RelativeDocumentMoniker": "Ftec.ProjetosWeb.ProdutoAvaliacao\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Ftec.ProjetosWeb.ProdutoAvaliacao\\Ftec.ProjetosWeb.ProdutoAvaliacao\\appsettings.json",
+              "RelativeToolTip": "Ftec.ProjetosWeb.ProdutoAvaliacao\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-13T18:53:23.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProdutoAvaliacaoController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ftec.ProjetosWeb.ProdutoAvaliacao\\Ftec.ProjetosWeb.ProdutoAvaliacao\\Controllers\\ProdutoAvaliacaoController.cs",
+              "RelativeDocumentMoniker": "Ftec.ProjetosWeb.ProdutoAvaliacao\\Controllers\\ProdutoAvaliacaoController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Ftec.ProjetosWeb.ProdutoAvaliacao\\Ftec.ProjetosWeb.ProdutoAvaliacao\\Controllers\\ProdutoAvaliacaoController.cs",
+              "RelativeToolTip": "Ftec.ProjetosWeb.ProdutoAvaliacao\\Controllers\\ProdutoAvaliacaoController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwIEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T18:48:55.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IProdutoAvaliacaoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ftec.ProjetosWeb.ProdutoAvaliacao\\Ftec.ProjetosWeb.ProdutoAvaliacao.Dominio\\Interfaces\\IProdutoAvaliacaoRepositorio.cs",
+              "RelativeDocumentMoniker": "Ftec.ProjetosWeb.ProdutoAvaliacao.Dominio\\Interfaces\\IProdutoAvaliacaoRepositorio.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Ftec.ProjetosWeb.ProdutoAvaliacao\\Ftec.ProjetosWeb.ProdutoAvaliacao.Dominio\\Interfaces\\IProdutoAvaliacaoRepositorio.cs",
+              "RelativeToolTip": "Ftec.ProjetosWeb.ProdutoAvaliacao.Dominio\\Interfaces\\IProdutoAvaliacaoRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T18:37:26.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Base.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ftec.ProjetosWeb.ProdutoAvaliacao\\Ftec.ProjetosWeb.ProdutoAvaliacao.Dominio\\Entidades\\Base.cs",
+              "RelativeDocumentMoniker": "Ftec.ProjetosWeb.ProdutoAvaliacao.Dominio\\Entidades\\Base.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Ftec.ProjetosWeb.ProdutoAvaliacao\\Ftec.ProjetosWeb.ProdutoAvaliacao.Dominio\\Entidades\\Base.cs",
+              "RelativeToolTip": "Ftec.ProjetosWeb.ProdutoAvaliacao.Dominio\\Entidades\\Base.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T18:36:37.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProdutoAvaliacao.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ftec.ProjetosWeb.ProdutoAvaliacao\\Ftec.ProjetosWeb.ProdutoAvaliacao.Dominio\\Entidades\\ProdutoAvaliacao.cs",
+              "RelativeDocumentMoniker": "Ftec.ProjetosWeb.ProdutoAvaliacao.Dominio\\Entidades\\ProdutoAvaliacao.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Ftec.ProjetosWeb.ProdutoAvaliacao\\Ftec.ProjetosWeb.ProdutoAvaliacao.Dominio\\Entidades\\ProdutoAvaliacao.cs",
+              "RelativeToolTip": "Ftec.ProjetosWeb.ProdutoAvaliacao.Dominio\\Entidades\\ProdutoAvaliacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T18:56:19.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProdutoAvaliacaoAplicacao.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ftec.ProjetosWeb.ProdutoAvaliacao\\Ftec.ProjetosWeb.ProdutoAvaliacao.Aplicacao\\ProdutoAvaliacaoAplicacao.cs",
+              "RelativeDocumentMoniker": "Ftec.ProjetosWeb.ProdutoAvaliacao.Aplicacao\\ProdutoAvaliacaoAplicacao.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Ftec.ProjetosWeb.ProdutoAvaliacao\\Ftec.ProjetosWeb.ProdutoAvaliacao.Aplicacao\\ProdutoAvaliacaoAplicacao.cs",
+              "RelativeToolTip": "Ftec.ProjetosWeb.ProdutoAvaliacao.Aplicacao\\ProdutoAvaliacaoAplicacao.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwA8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T18:35:37.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProdutoAvaliacaoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ftec.ProjetosWeb.ProdutoAvaliacao\\Ftec.ProjetosWeb.ProdutoAvaliacao.Persistencia\\ProdutoAvaliacaoRepositorio.cs",
+              "RelativeDocumentMoniker": "Ftec.ProjetosWeb.ProdutoAvaliacao.Persistencia\\ProdutoAvaliacaoRepositorio.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Ftec.ProjetosWeb.ProdutoAvaliacao\\Ftec.ProjetosWeb.ProdutoAvaliacao.Persistencia\\ProdutoAvaliacaoRepositorio.cs",
+              "RelativeToolTip": "Ftec.ProjetosWeb.ProdutoAvaliacao.Persistencia\\ProdutoAvaliacaoRepositorio.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAQwKEAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T18:42:37.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProdutoAvaliacaoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ftec.ProjetosWeb.ProdutoAvaliacao\\Ftec.ProjetosWeb.ProdutoAvaliacao.Aplicacao\\DTO\\ProdutoAvaliacaoDTO.cs",
+              "RelativeDocumentMoniker": "Ftec.ProjetosWeb.ProdutoAvaliacao.Aplicacao\\DTO\\ProdutoAvaliacaoDTO.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Ftec.ProjetosWeb.ProdutoAvaliacao\\Ftec.ProjetosWeb.ProdutoAvaliacao.Aplicacao\\DTO\\ProdutoAvaliacaoDTO.cs",
+              "RelativeToolTip": "Ftec.ProjetosWeb.ProdutoAvaliacao.Aplicacao\\DTO\\ProdutoAvaliacaoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T18:34:24.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProdutoAvaliacaoAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ftec.ProjetosWeb.ProdutoAvaliacao\\Ftec.ProjetosWeb.ProdutoAvaliacao.Aplicacao\\Adapter\\ProdutoAvaliacaoAdapter.cs",
+              "RelativeDocumentMoniker": "Ftec.ProjetosWeb.ProdutoAvaliacao.Aplicacao\\Adapter\\ProdutoAvaliacaoAdapter.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Ftec.ProjetosWeb.ProdutoAvaliacao\\Ftec.ProjetosWeb.ProdutoAvaliacao.Aplicacao\\Adapter\\ProdutoAvaliacaoAdapter.cs",
+              "RelativeToolTip": "Ftec.ProjetosWeb.ProdutoAvaliacao.Aplicacao\\Adapter\\ProdutoAvaliacaoAdapter.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBcAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T18:33:56.383Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

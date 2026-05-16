@@ -1,0 +1,5 @@
+C:\Users\Guilherme\source\repos\Ftec.ProjetosWeb.ProdutoAvaliacao\Ftec.ProjetosWeb.ProdutoAvaliacao.Persistencia\obj\Debug\net10.0\Ftec.ProjetosWeb.ProdutoAvaliacao.Persistencia.csproj.AssemblyReference.cache
+C:\Users\Guilherme\source\repos\Ftec.ProjetosWeb.ProdutoAvaliacao\Ftec.ProjetosWeb.ProdutoAvaliacao.Persistencia\obj\Debug\net10.0\Ftec.ProjetosWeb.ProdutoAvaliacao.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme\source\repos\Ftec.ProjetosWeb.ProdutoAvaliacao\Ftec.ProjetosWeb.ProdutoAvaliacao.Persistencia\obj\Debug\net10.0\Ftec.ProjetosWeb.ProdutoAvaliacao.Persistencia.AssemblyInfoInputs.cache
+C:\Users\Guilherme\source\repos\Ftec.ProjetosWeb.ProdutoAvaliacao\Ftec.ProjetosWeb.ProdutoAvaliacao.Persistencia\obj\Debug\net10.0\Ftec.ProjetosWeb.ProdutoAvaliacao.Persistencia.AssemblyInfo.cs
+C:\Users\Guilherme\source\repos\Ftec.ProjetosWeb.ProdutoAvaliacao\Ftec.ProjetosWeb.ProdutoAvaliacao.Persistencia\obj\Debug\net10.0\Ftec.ProjetosWeb.ProdutoAvaliacao.Persistencia.csproj.CoreCompileInputs.cache
